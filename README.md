@@ -7,7 +7,7 @@ Full-Stack Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
-Computer Science Student • Gujarat, India
+Computer Science Student • Ahmedabad, India
 </p>
 
 <p align="center">
