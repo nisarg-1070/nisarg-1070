@@ -1,12 +1,20 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Nisarg%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=250&section=header&text=Nisarg%20Patel&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+<h3 align="center">
+Full-Stack Developer • AI/ML Enthusiast
+</h3>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+modern+full-stack+applications;React+%7C+Django+%7C+MongoDB+%7C+Python;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
-</a>
+<p align="center">
+Computer Science Student • Gujarat, India
+</p>
 
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+full-stack+applications;Exploring+AI+%26+Machine+Learning;React+%7C+Django+%7C+Python;Turning+ideas+into+real-world+software"/>
+</p>
+
+<p align="center">
 
 <a href="https://github.com/nisarg-1070">
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4"/>
@@ -17,324 +25,325 @@
 </a>
 
 <a href="mailto:patelnisarg1070@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
-<br/>
-
-<!-- WINDOW 1: SYSTEM PROFILE -->
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
-<tr>
-<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
-
-🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Developer_Profile.app</b>
-
-</td>
-</tr>
-
-<tr>
-<td style="padding: 20px;">
-
-<table width="100%">
-<tr>
-
-<td width="55%" valign="top">
-
-<h3>👤 Developer Profile</h3>
-
-<ul>
-<li><b>Role:</b> Computer Science Student & Developer</li>
-<li><b>Base:</b> Gujarat, India</li>
-<li><b>Focus:</b> Full-Stack Development, AI & Machine Learning</li>
-<li><b>Interests:</b> Web Applications, REST APIs, Databases & Automation</li>
-<li><b>Currently:</b> Building and improving real-world software projects</li>
-</ul>
-
-</td>
-
-<td width="45%" valign="top" align="center">
-
-<h3>⚙️ Core Technologies</h3>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,django,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark&perline=7" />
-
-</td>
-
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- WINDOW 2: PROJECT EXPLORER -->
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
-
-<tr>
-<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
-
-🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Project_Explorer.exe</b>
-
-</td>
-</tr>
-
-<tr>
-<td style="padding: 20px;">
-
-<!-- PROJECT 1 -->
-
-<blockquote>
-
-<h3>💍 Vivaah — Matrimonial Platform</h3>
-
-<p>
-<kbd>React</kbd>
-<kbd>Django</kbd>
-<kbd>MongoDB</kbd>
-<kbd>REST API</kbd>
-<kbd>Random Forest</kbd>
 </p>
 
-<p>
-<i>
-A modern matrimonial web application designed to help users create profiles,
-discover potential matches, connect with other users, and communicate after
-mutual interaction.
-</i>
+---
+
+# 👨‍💻 About Me
+
+I'm a **Computer Science student and aspiring Full-Stack Developer** interested in building practical software applications that combine modern web technologies with intelligent systems.
+
+I enjoy working across the stack — from designing responsive interfaces to developing backend APIs, managing databases, and integrating machine learning models.
+
+### Currently focusing on:
+
+* 🌐 Full-Stack Web Development
+* ⚛️ React.js & Modern Frontend Development
+* 🐍 Python & Backend Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🗄️ Database Management
+* 🔗 REST API Development
+* 🧠 Building practical and real-world projects
+
+> **My goal:** Keep learning, build meaningful software, and continuously improve as a developer.
+
+---
+
+# 🛠️ Skills
+
+### Frontend
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
 </p>
 
-<ul>
-<li><b>Authentication:</b> Secure user registration, login and authenticated profile access.</li>
-<li><b>Profile System:</b> Multi-step onboarding for creating and completing user profiles.</li>
-<li><b>Connections:</b> Like, send interest, shortlist and block functionality.</li>
-<li><b>Communication:</b> Users can chat after an interest/request is accepted.</li>
-<li><b>AI Feature:</b> Random Forest model generates a compatibility score using profile attributes.</li>
-<li><b>Architecture:</b> React frontend communicates with Django REST APIs connected to MongoDB.</li>
-</ul>
+### Backend
 
-</blockquote>
+<p align="left">
 
-<!-- PROJECT 2 -->
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-<blockquote>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<h3>💰 FinSight — Personal Finance Analyzer</h3>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-<p>
-<kbd>Python</kbd>
-<kbd>Flask</kbd>
-<kbd>JavaScript</kbd>
-<kbd>Pandas</kbd>
-<kbd>Machine Learning</kbd>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
 </p>
 
-<p>
-<i>
-A personal finance analysis application focused on understanding financial
-data through visualization, analysis and intelligent insights.
-</i>
+### Programming Languages
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML- E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 </p>
 
-<ul>
-<li><b>Data Analysis:</b> Uses Python and Pandas to process financial information.</li>
-<li><b>Visualization:</b> Converts financial data into understandable charts and analytical views.</li>
-<li><b>Insights:</b> Helps identify spending patterns and financial trends.</li>
-<li><b>Backend:</b> Flask-based application handling application logic and data processing.</li>
-</ul>
+### AI / Machine Learning
 
-</blockquote>
+<p align="left">
 
-<!-- PROJECT 3 -->
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-<blockquote>
+<img src="https://img.shields.io/badge/Llama_3-000000?style=for-the-badge&logo=meta&logoColor=white"/>
 
-<h3>🚆 Railway Reservation System</h3>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<p>
-<kbd>Java</kbd>
-<kbd>JDBC</kbd>
-<kbd>MySQL</kbd>
-<kbd>DSA</kbd>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 </p>
 
-<p>
-<i>
-A Java-based reservation system focused on passenger management,
-train operations and database-driven reservation workflows.
-</i>
+### Tools & Platforms
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Browser_Developer_Tools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </p>
 
-<ul>
-<li><b>Core Java:</b> Object-oriented programming concepts used throughout the application.</li>
-<li><b>Data Structures:</b> LinkedList-based operations for managing reservation data.</li>
-<li><b>Database:</b> MySQL integration using JDBC.</li>
-<li><b>Operations:</b> Reservation, cancellation and passenger record management.</li>
-</ul>
+---
 
-</blockquote>
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💍 Vivaah</h3>
+
+<p align="center">
+<b>Matrimonial Web Application</b>
+</p>
+
+<p align="center">
+A full-stack matrimonial platform where users can create profiles, discover potential matches, send interests, shortlist profiles, block users, and communicate after mutual interaction.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+
+</p>
+
+### ✨ Key Features
+
+* 🔐 User authentication
+* 👤 Multi-step profile onboarding
+* ❤️ Like & interest system
+* ⭐ Shortlist profiles
+* 🚫 Block users
+* 💬 Chat after accepted interest
+* 🤖 Random Forest compatibility prediction
+* 🔗 Frontend ↔ Backend REST API communication
+
+<p align="center">
+<a href="https://github.com/nisarg-1070">
+<img src="https://img.shields.io/badge/⭐_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💰 FinVest</h3>
+
+<p align="center">
+<b>Personal Finance Analyzer</b>
+</p>
+
+<p align="center">
+A financial analysis application designed to help users understand their spending patterns and financial data through analysis, visualization, and intelligent insights.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat"/>
+
+</p>
+
+### ✨ Key Features
+
+* 📊 Financial data analysis
+* 📈 Data visualization
+* 💰 Expense analysis
+* 📉 Spending pattern analysis
+* 🧠 Intelligent financial insights
+* 🐍 Python-based data processing
+
+<p align="center">
+<a href="https://github.com/nisarg-1070">
+<img src="https://img.shields.io/badge/⭐_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
 </tr>
 </table>
 
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<a href="https://github.com/nisarg-1070">
+<img src="https://github-readme-stats.vercel.app/api?username=nisarg-1070&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+</a>
+
+<a href="https://github.com/nisarg-1070">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg-1070&layout=donut&hide_border=true&theme=tokyonight&langs_count=6" height="180"/>
+</a>
+
+</p>
+
+### 🔥 Development Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=nisarg-1070&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=2563EB&currStreakLabel=06B6D4"/>
+
+</p>
+
+### 🌊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisarg-1070&bg_color=0D1117&color=06B6D4&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Nisarg's%20Development%20Activity"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="200">
+
+### 🌐
+
+<b>Full-Stack</b>
+
 <br/>
 
-<!-- WINDOW 3: TECHNOLOGY STACK -->
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
-
-<tr>
-<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
-
-🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Technology_Stack.app</b>
+Building modern web applications
 
 </td>
-</tr>
 
-<tr>
-<td align="center" style="padding: 25px;">
+<td align="center" width="200">
 
-<h3>💻 Development Stack</h3>
+### 🤖
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark&perline=5"/>
+<b>AI / ML</b>
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,django,nodejs,express&theme=dark&perline=4"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=4"/>
+Learning and integrating intelligent systems
 
 </td>
+
+<td align="center" width="200">
+
+### 🧠
+
+<b>Problem Solving</b>
+
+<br/>
+
+Strengthening programming fundamentals
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀
+
+<b>Projects</b>
+
+<br/>
+
+Turning ideas into useful software
+
+</td>
+
 </tr>
 
 </table>
 
-<br/>
+---
 
-<!-- WINDOW 4: GITHUB ACTIVITY -->
+# 🤝 Let's Connect
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
+<p align="center">
 
-<tr>
-<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
+<a href="https://www.linkedin.com/in/nisarg-patel-b13748411/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Activity_Monitor.app</b>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" style="padding: 20px;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nisarg-1070&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg-1070&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=nisarg-1070&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<!-- WINDOW 5: CONTRIBUTION GRAPH -->
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
-
-<tr>
-<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
-
-🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Contribution_Monitor.app</b>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" style="padding: 20px;">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisarg-1070&theme=tokyo-night&hide_border=true"/>
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<!-- WINDOW 6: CURRENT STATUS -->
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
-
-<tr>
-<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
-
-🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Current_Status.log</b>
-
-</td>
-</tr>
-
-<tr>
-<td style="padding: 20px;">
-
-<h3>🚀 Currently Working On</h3>
-
-<ul>
-<li>Building full-stack applications with React and Django</li>
-<li>Improving Python and Machine Learning skills</li>
-<li>Working with REST APIs and MongoDB</li>
-<li>Learning better software architecture and development practices</li>
-<li>Building projects that solve practical problems</li>
-</ul>
-
-<h3>🎯 Future Goals</h3>
-
-<ul>
-<li>Become a strong Full-Stack Developer</li>
-<li>Build production-ready AI-powered applications</li>
-<li>Strengthen Data Structures & Algorithms</li>
-<li>Contribute to open-source projects</li>
-<li>Grow as a software engineer through real-world development</li>
-</ul>
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<i>
-Building projects, learning technologies, and turning ideas into software.
-</i>
-
-<br/><br/>
+<a href="https://github.com/nisarg-1070">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="mailto:patelnisarg1070@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Connect-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer"/>
+<br/>
 
-</div>
+<p align="center">
+<i>Building. Learning. Experimenting. Growing. 🚀</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer"/>
+</p>
