@@ -1,159 +1,340 @@
-# 👋 Hey, I'm Nisarg Patel
+<div align="center">
 
-### 💻 Computer Science Student | Full-Stack Developer | Python & AI/ML Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=250&section=header&text=Nisarg%20Patel&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
 
-I'm a Computer Science student passionate about building **modern web applications, AI-powered solutions, and practical software projects**.
-
-I enjoy turning ideas into working applications using technologies like **React, Django, Python, JavaScript, MongoDB, and REST APIs**.
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science Student
-* 💻 Interested in Full-Stack Development
-* 🤖 Exploring AI & Machine Learning
-* 🌐 Building projects with React & Django
-* 🗄️ Working with MongoDB & REST APIs
-* 📚 Continuously learning new technologies
-* 🎯 Focused on building real-world projects
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### AI / ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 💍 Vivaah — Matrimonial Web Application
-
-A modern matrimonial platform designed to help users create profiles, discover potential matches, send interests, manage connections, and communicate with accepted matches.
-
-**Tech:** React • Django • MongoDB • REST API • Random Forest
-
-**Key Features:**
-
-* 🔐 User Authentication
-* 👤 Profile & Onboarding
-* ❤️ Send Interest
-* ⭐ Shortlist Profiles
-* 🚫 Block Users
-* 💬 Chat After Interest Acceptance
-* 🤖 Random Forest Compatibility Prediction
-* 🔄 REST API Integration
-
----
-
-### 💰 FinSight — Personal Finance Analyzer
-
-A personal finance application designed to help users analyze their financial activities and understand their spending patterns.
-
-**Tech:** Python • Flask • JavaScript • Data Analysis • Machine Learning
-
-**Highlights:**
-
-* 📊 Financial data analysis
-* 📈 Interactive visualizations
-* 🤖 Machine learning integration
-* 💡 Financial insights
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more full-stack applications
-* 🤖 Improve my AI/ML knowledge
-* 🌐 Build production-ready web applications
-* 📚 Strengthen Data Structures & Algorithms
-* 🧑‍💻 Contribute to open-source projects
-* 💼 Prepare for software development opportunities
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+modern+full-stack+applications;React+%7C+Django+%7C+MongoDB+%7C+Python;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<br/>
+
+<a href="https://github.com/nisarg-1070">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nisarg-patel-b13748411/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:patelnisarg1070@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</div>
+
+<br/>
+
+<!-- WINDOW 1: SYSTEM PROFILE -->
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
+<tr>
+<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
+
+🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Developer_Profile.app</b>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding: 20px;">
+
+<table width="100%">
+<tr>
+
+<td width="55%" valign="top">
+
+<h3>👤 Developer Profile</h3>
+
+<ul>
+<li><b>Role:</b> Computer Science Student & Developer</li>
+<li><b>Base:</b> Gujarat, India</li>
+<li><b>Focus:</b> Full-Stack Development, AI & Machine Learning</li>
+<li><b>Interests:</b> Web Applications, REST APIs, Databases & Automation</li>
+<li><b>Currently:</b> Building and improving real-world software projects</li>
+</ul>
+
+</td>
+
+<td width="45%" valign="top" align="center">
+
+<h3>⚙️ Core Technologies</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,django,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark&perline=7" />
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- WINDOW 2: PROJECT EXPLORER -->
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
+
+<tr>
+<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
+
+🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Project_Explorer.exe</b>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding: 20px;">
+
+<!-- PROJECT 1 -->
+
+<blockquote>
+
+<h3>💍 Vivaah — Matrimonial Platform</h3>
+
+<p>
+<kbd>React</kbd>
+<kbd>Django</kbd>
+<kbd>MongoDB</kbd>
+<kbd>REST API</kbd>
+<kbd>Random Forest</kbd>
 </p>
 
----
-
-<p align="center">
-  <i>💡 "Building today, learning every day, and creating for tomorrow."</i>
+<p>
+<i>
+A modern matrimonial web application designed to help users create profiles,
+discover potential matches, connect with other users, and communicate after
+mutual interaction.
+</i>
 </p>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+<ul>
+<li><b>Authentication:</b> Secure user registration, login and authenticated profile access.</li>
+<li><b>Profile System:</b> Multi-step onboarding for creating and completing user profiles.</li>
+<li><b>Connections:</b> Like, send interest, shortlist and block functionality.</li>
+<li><b>Communication:</b> Users can chat after an interest/request is accepted.</li>
+<li><b>AI Feature:</b> Random Forest model generates a compatibility score using profile attributes.</li>
+<li><b>Architecture:</b> React frontend communicates with Django REST APIs connected to MongoDB.</li>
+</ul>
+
+</blockquote>
+
+<!-- PROJECT 2 -->
+
+<blockquote>
+
+<h3>💰 FinSight — Personal Finance Analyzer</h3>
+
+<p>
+<kbd>Python</kbd>
+<kbd>Flask</kbd>
+<kbd>JavaScript</kbd>
+<kbd>Pandas</kbd>
+<kbd>Machine Learning</kbd>
 </p>
+
+<p>
+<i>
+A personal finance analysis application focused on understanding financial
+data through visualization, analysis and intelligent insights.
+</i>
+</p>
+
+<ul>
+<li><b>Data Analysis:</b> Uses Python and Pandas to process financial information.</li>
+<li><b>Visualization:</b> Converts financial data into understandable charts and analytical views.</li>
+<li><b>Insights:</b> Helps identify spending patterns and financial trends.</li>
+<li><b>Backend:</b> Flask-based application handling application logic and data processing.</li>
+</ul>
+
+</blockquote>
+
+<!-- PROJECT 3 -->
+
+<blockquote>
+
+<h3>🚆 Railway Reservation System</h3>
+
+<p>
+<kbd>Java</kbd>
+<kbd>JDBC</kbd>
+<kbd>MySQL</kbd>
+<kbd>DSA</kbd>
+</p>
+
+<p>
+<i>
+A Java-based reservation system focused on passenger management,
+train operations and database-driven reservation workflows.
+</i>
+</p>
+
+<ul>
+<li><b>Core Java:</b> Object-oriented programming concepts used throughout the application.</li>
+<li><b>Data Structures:</b> LinkedList-based operations for managing reservation data.</li>
+<li><b>Database:</b> MySQL integration using JDBC.</li>
+<li><b>Operations:</b> Reservation, cancellation and passenger record management.</li>
+</ul>
+
+</blockquote>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- WINDOW 3: TECHNOLOGY STACK -->
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
+
+<tr>
+<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
+
+🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Technology_Stack.app</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding: 25px;">
+
+<h3>💻 Development Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark&perline=5"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,django,nodejs,express&theme=dark&perline=4"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=4"/>
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- WINDOW 4: GITHUB ACTIVITY -->
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
+
+<tr>
+<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
+
+🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Activity_Monitor.app</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding: 20px;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nisarg-1070&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg-1070&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=nisarg-1070&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- WINDOW 5: CONTRIBUTION GRAPH -->
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
+
+<tr>
+<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
+
+🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Contribution_Monitor.app</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding: 20px;">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisarg-1070&theme=tokyo-night&hide_border=true"/>
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- WINDOW 6: CURRENT STATUS -->
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
+
+<tr>
+<td bgcolor="#161b22" style="padding: 8px 12px; border-bottom: 1px solid #30363d;">
+
+🔴 🟡 🟢   <b style="color: #8b949e; font-family: sans-serif; font-size: 14px;">Current_Status.log</b>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding: 20px;">
+
+<h3>🚀 Currently Working On</h3>
+
+<ul>
+<li>Building full-stack applications with React and Django</li>
+<li>Improving Python and Machine Learning skills</li>
+<li>Working with REST APIs and MongoDB</li>
+<li>Learning better software architecture and development practices</li>
+<li>Building projects that solve practical problems</li>
+</ul>
+
+<h3>🎯 Future Goals</h3>
+
+<ul>
+<li>Become a strong Full-Stack Developer</li>
+<li>Build production-ready AI-powered applications</li>
+<li>Strengthen Data Structures & Algorithms</li>
+<li>Contribute to open-source projects</li>
+<li>Grow as a software engineer through real-world development</li>
+</ul>
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<i>
+Building projects, learning technologies, and turning ideas into software.
+</i>
+
+<br/><br/>
+
+<a href="mailto:patelnisarg1070@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Connect-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer"/>
+
+</div>
